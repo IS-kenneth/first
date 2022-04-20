@@ -1,3 +1,3 @@
 Hello Owner!
 Hi pareh! 
-prinf("The area of triangle is: %.2f",x);
+prinf("The area of circle is: %.2f",x);
